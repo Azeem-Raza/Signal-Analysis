@@ -4,7 +4,7 @@ import os
 
 
 # Load the data from the file
-file_path = "/Users/jeem/Desktop/My Home /PyPrac/Data Structure and Algorithm/Project/twoNoisySignals.txt"
+file_path = "Destination/To/twoNoisySignals.txt"
 data = np.loadtxt(file_path)
 
 #data = np.loadtxt("twoNoisySignals.txt")
